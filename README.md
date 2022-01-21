@@ -118,7 +118,7 @@ Here's a YouTube tutorial video for deploying the bot on [Heroku](https://heroku
 
 ### Contact
 
-You can contact me [@odysseusmax](https://telegram.dog/odysseusmax "odysseusmax").
+You can contact me [@likh0n](https://telegram.dog/likh0n "LIKHON").
 
 ### License
 
